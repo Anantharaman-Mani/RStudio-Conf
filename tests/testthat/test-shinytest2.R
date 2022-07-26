@@ -49,3 +49,9 @@ test_that("{shinytest2} recording: learn_shinytest2", {
 #   app$expect_values()
 #   app$expect_values()
 # })
+
+
+test_that("{shinytest2} recording: RStudio-Conf", {
+  app <- AppDriver$new(name = "RStudio-Conf", height = 904, width = 609)
+  app$expect_values()
+})
