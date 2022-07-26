@@ -12,7 +12,7 @@ jobs:
       - name: Publish Connect content
         uses: rstudio/actions/connect-publish@main
         with:
-          url: ${{ secrets.CONNECT_URL }}
+          url: http://ec2-3-129-67-103.us-east-2.compute.amazonaws.com/rsconnect/
           api-key: ${{ secrets.CONNECT_API_KEY }}
           access-type: acl
           dir: |
