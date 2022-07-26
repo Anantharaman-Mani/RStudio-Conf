@@ -16,4 +16,4 @@ jobs:
           api-key: ${{ secrets.CONNECT_API_KEY }}
           access-type: acl
           dir: |
-            .:/
+            .:/RStudio-Conf

@@ -2763,7 +2763,7 @@
       "checksum": "63c089e1a9a9e90f5f7876ea12d8f663"
     },
     ".github/workflows/connect-publish.yaml": {
-      "checksum": "1df25a0669b509d89f4d6fa529167d51"
+      "checksum": "3e98b5957b2f117bbbf2b67692c1a64a"
     },
     ".github/workflows/test-actions.yaml": {
       "checksum": "d724a9aeb22bfa8b0b68d4074a6b9fd7"
@@ -2772,7 +2772,7 @@
       "checksum": "dc21cf953d2a2a5bc3e773a6424aca5a"
     },
     ".Rprofile": {
-      "checksum": "da47ab3312cd5da972299fe14376f1c0"
+      "checksum": "76d3e5adf064a8f514ebc7b0d914e5be"
     },
     "app.R": {
       "checksum": "bb168f5afc03f5c7094b1e1826245f85"
